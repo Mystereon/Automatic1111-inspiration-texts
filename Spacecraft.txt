@@ -1,0 +1,50 @@
+Classic rocket extraterrestrial vehicle 
+Starfighter
+Cargo extraterrestrial vehicle 
+Space Colony extraterrestrial vehicle 
+Science extraterrestrial vehicle 
+Space Battle cruiser
+Space Mining extraterrestrial vehicle 
+Research extraterrestrial vehicle 
+Luxury liner
+Transport shuttle
+Stealth extraterrestrial vehicle 
+Orbital station
+Escape pod
+Fighter-bomber
+Interceptor craft
+Drop troops extraterrestrial vehicle 
+Troop transport
+Refueling extraterrestrial vehicle 
+Rescue extraterrestrial vehicle 
+Medical transport
+Survey extraterrestrial vehicle 
+Mobile Orbital fortress
+Armored troop carrier
+Carrier extraterrestrial vehicle 
+Space Communication relay
+orbital Jump gate
+Salvage extraterrestrial vehicle 
+Pirate extraterrestrial vehicle 
+Stealth bomber
+space Frigate
+heavy Destroyer craft
+Heavy cruiser craft
+Light cruiser craft 
+Corvette craft 
+Gun extraterrestrial vehicle 
+Stealth scout
+ vehicleIon extraterrestrial vehicle 
+Solar sail extraterrestrial vehicle 
+Planetary explorer
+Colony lander
+Magnetic field extraterrestrial vehicle 
+Quantum extraterrestrial vehicle 
+Wormhole generator
+Anti-gravity extraterrestrial vehicle 
+Terraforming extraterrestrial vehicle 
+Artillery extraterrestrial vehicle 
+Sensor probe
+Gravity well extraterrestrial vehicle 
+Teleportation extraterrestrial vehicle 
+Dimensional extraterrestrial vehicle 
