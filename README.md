@@ -1,5 +1,6 @@
 # AUTOMATIC1111 INSPIRATION TEXTS
-The inspiration texts are intended to be used with the [Stable Diffusion WebUI Inspiration](https://github.com/yfszzx/stable-diffusion-webui-inspiration) repository, which provides a web-based user interface for interacting with the Automatic1111 A.I.
+These inspiration texts are intended to be used with inspiration script in Automatic1111 with the [Stable Diffusion WebUI Inspiration](https://github.com/yfszzx/stable-diffusion-webui-inspiration) repository installed . To access the inspiration texts after generating them within the Automatic1111 interface, RESTART AUTOMATIC111 ,then simply navigate to the "Inspiration" tab.
+
 The texts cover a variety of subjects, including:
 
 - UFO incidents
