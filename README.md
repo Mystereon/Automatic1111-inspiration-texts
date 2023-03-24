@@ -9,6 +9,8 @@ This repository contains a collection of inspiration texts for an A.I. called **
 - Cryptids
 - Comic Artists
 - Cartoon shows
+- Disturbing
+- Spacecraft
 
 ## Contributing
 
