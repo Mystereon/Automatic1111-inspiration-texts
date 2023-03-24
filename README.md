@@ -1,6 +1,6 @@
 # AUTOMATIC1111 INSPIRATION TEXTS
-
-This repository contains a collection of inspiration texts for an A.I. called **Automatic1111**. The texts cover a variety of subjects, including:
+The inspiration texts are intended to be used with the [Stable Diffusion WebUI Inspiration](https://github.com/yfszzx/stable-diffusion-webui-inspiration) repository, which provides a web-based user interface for interacting with the Automatic1111 A.I.
+The texts cover a variety of subjects, including:
 
 - UFO incidents
 - Tropes
